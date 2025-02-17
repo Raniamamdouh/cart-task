@@ -1,6 +1,6 @@
 import React, { Component } from 'react'; 
 import { Container, Button, Navbar, Nav, Badge } from 'react-bootstrap'; 
-import { FaShoppingCart, FaMoon, FaSun } from 'react-icons/fa'; // إضافة أيقونات الثيم والسلة
+import { FaShoppingCart, FaMoon, FaSun } from 'react-icons/fa';
 import NavbarComponent from './components/NavbarComponent'; 
 import ProductList from './components/ProductList'; 
 import 'bootstrap/dist/css/bootstrap.min.css'; 
